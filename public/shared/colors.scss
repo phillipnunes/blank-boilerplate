@@ -1,0 +1,21 @@
+@import 'css-vars';
+
+$dark: #2a3138;
+$white: #FFFFFF;
+$gray: #efeaea;
+$cyan: #49d0af;
+$light-cyan: #5fe2c8;
+$red: red;
+$green: green;
+
+$css-vars-use-native: true;
+
+@include css-vars((
+        --dark: $dark,
+        --white: $white,
+        --gray: $gray,
+        --cyan: $cyan,
+        --light-cyan: $light-cyan,
+        --red: $red,
+        --green: $green
+));
