@@ -97,7 +97,7 @@
     "sass": "^1.26.7"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "css-vars": "^2.2.0",
     "parcel-bundler": "^1.12.4",
     "react": "^16.13.1",
